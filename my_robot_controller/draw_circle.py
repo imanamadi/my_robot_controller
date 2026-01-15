@@ -22,4 +22,4 @@ def main (args=None):
     node = DrawCircleNode() #node created
     rclpy.spin(node) #spin the node (run the node) *loop
     rclpy.shutdown() #end looping
-    #test
+    
